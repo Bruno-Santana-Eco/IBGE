@@ -1,0 +1,437 @@
+; Óbitos por causas externas - Bahia;;;;;
+;Óbitos por Ocorrência por Município-BA e Grande Grupo CID10;;;;;
+;Grande Grupo CID10: X60-X84 Lesões autoprovocadas voluntariamente;;;;;
+;Categoria CID10: X72   Lesao autoprov intenc disp arma fogo de mao, X73   Les autoprov int disp arm fog maior calibre, X74   Lesao autopr intenc disp outr arma fogo e NE;;;;;
+;Período:2022;;;;;
+;Município-BA;Suicídios PAF_2022;Suicídios PAF_Total_2022;%;CÓDITO DO TI;NOME DO TERRITÓRIO DE IDENTIDADE
+290010;Abaíra;0;0;#DIV/0!;3;Chapada Diamantina
+290020;Abaré;0;0;#DIV/0!;24;Itaparica
+290030;Acajutiba;0;0;#DIV/0!;18;Litoral Norte e Agreste Baiano
+290035;Adustina;0;0;#DIV/0!;17;Semiárido Nordeste II
+290040;Água Fria;0;1;0,0%;19;Portal do Sertão
+290060;Aiquara;0;2;0,0%;22;Médio Rio de Contas
+290070;Alagoinhas;0;8;0,0%;18;Litoral Norte e Agreste Baiano
+290080;Alcobaça;0;1;0,0%;7;Extremo Sul
+290090;Almadina;0;0;#DIV/0!;5;Litoral Sul
+290100;Amargosa;0;2;0,0%;9;Vale do Jiquiriçá
+290110;Amélia Rodrigues;0;0;#DIV/0!;19;Portal do Sertão
+290115;América Dourada;1;1;100,0%;1;Irecê
+290120;Anagé;1;1;100,0%;20;Sudoeste Baiano
+290130;Andaraí;0;0;#DIV/0!;3;Chapada Diamantina
+290135;Andorinha;0;0;#DIV/0!;25;Piemonte Norte do Itapicuru
+290140;Angical;0;3;0,0%;11;Bacia do Rio Grande
+290150;Anguera;0;0;#DIV/0!;19;Portal do Sertão
+290160;Antas;0;2;0,0%;17;Semiárido Nordeste II
+290170;Antônio Cardoso;0;2;0,0%;19;Portal do Sertão
+290180;Antônio Gonçalves;0;0;#DIV/0!;25;Piemonte Norte do Itapicuru
+290190;Aporá;0;0;#DIV/0!;18;Litoral Norte e Agreste Baiano
+290195;Apuarema;0;1;0,0%;22;Médio Rio de Contas
+290205;Araças;0;0;#DIV/0!;18;Litoral Norte e Agreste Baiano
+290200;Aracatu;0;0;#DIV/0!;20;Sudoeste Baiano
+290210;Araci;0;1;0,0%;4;Sisal
+290220;Aramari;0;2;0,0%;18;Litoral Norte e Agreste Baiano
+290225;Arataca;0;0;#DIV/0!;5;Litoral Sul
+290230;Aratuípe;0;0;#DIV/0!;6;Baixo Sul
+290240;Aurelino Leal;0;3;0,0%;5;Litoral Sul
+290250;Baianópolis;0;0;#DIV/0!;11;Bacia do Rio Grande
+290260;Baixa Grande;0;1;0,0%;15;Bacia do Jacuípe
+290265;Banzaê;0;1;0,0%;17;Semiárido Nordeste II
+290270;Barra;0;3;0,0%;2;Velho Chico
+290280;Barra da Estiva;0;1;0,0%;3;Chapada Diamantina
+290290;Barra do Choça;0;3;0,0%;20;Sudoeste Baiano
+290300;Barra do Mendes;0;3;0,0%;1;Irecê
+290310;Barra do Rocha;0;0;#DIV/0!;22;Médio Rio de Contas
+290320;Barreiras;1;16;6,3%;11;Bacia do Rio Grande
+290323;Barro Alto;0;2;0,0%;1;Irecê
+290330;Barro Preto;0;1;0,0%;5;Litoral Sul
+290327;Barrocas;0;0;#DIV/0!;4;Sisal
+290340;Belmonte;0;1;0,0%;27;Costa do Descobrimento
+290350;Belo Campo;0;1;0,0%;20;Sudoeste Baiano
+290360;Biritinga;0;1;0,0%;4;Sisal
+290370;Boa Nova;0;2;0,0%;22;Médio Rio de Contas
+290380;Boa Vista do Tupim;0;2;0,0%;14;Piemonte do Paraguaçu
+290390;Bom Jesus da Lapa;0;3;0,0%;2;Velho Chico
+290395;Bom Jesus da Serra;0;1;0,0%;20;Sudoeste Baiano
+290400;Boninal;0;0;#DIV/0!;3;Chapada Diamantina
+290405;Bonito;0;0;#DIV/0!;3;Chapada Diamantina
+290410;Boquira;0;1;0,0%;12;Bacia do Paramirim
+290420;Botuporã;0;0;#DIV/0!;12;Bacia do Paramirim
+290430;Brejões;0;0;#DIV/0!;9;Vale do Jiquiriçá
+290440;Brejolândia;0;1;0,0%;23;Bacia do Rio Corrente
+290450;Brotas de Macaúbas;1;2;50,0%;2;Velho Chico
+290460;Brumado;0;7;0,0%;13;Sertão Produtivo
+290470;Buerarema;0;1;0,0%;5;Litoral Sul
+290475;Buritirama;0;0;#DIV/0!;11;Bacia do Rio Grande
+290480;Caatiba;0;0;#DIV/0!;8;Médio Sudoeste da Bahia
+290485;Cabaceiras do Paraguaçu;0;1;0,0%;21;Recôncavo
+290490;Cachoeira;0;0;#DIV/0!;21;Recôncavo
+290500;Caculé;1;5;20,0%;13;Sertão Produtivo
+290510;Caém;0;1;0,0%;16;Piemonte da Diamantina
+290515;Caetanos;0;0;#DIV/0!;20;Sudoeste Baiano
+290520;Caetité;0;2;0,0%;13;Sertão Produtivo
+290530;Cafarnaum;0;1;0,0%;1;Irecê
+290540;Cairu;0;3;0,0%;6;Baixo Sul
+290550;Caldeirão Grande;0;0;#DIV/0!;25;Piemonte Norte do Itapicuru
+290560;Camacan;0;0;#DIV/0!;5;Litoral Sul
+290570;Camaçari;0;6;0,0%;26;Metropolitano de Salvador
+290580;Camamu;0;1;0,0%;6;Baixo Sul
+290590;Campo Alegre de Lourdes;0;0;#DIV/0!;10;Sertão do São Francisco
+290600;Campo Formoso;0;5;0,0%;25;Piemonte Norte do Itapicuru
+290610;Canápolis;0;0;#DIV/0!;23;Bacia do Rio Corrente
+290620;Canarana;0;4;0,0%;1;Irecê
+290630;Canavieiras;0;2;0,0%;5;Litoral Sul
+290640;Candeal;0;1;0,0%;4;Sisal
+290650;Candeias;0;1;0,0%;26;Metropolitano de Salvador
+290660;Candiba;0;1;0,0%;13;Sertão Produtivo
+290670;Cândido Sales;0;0;#DIV/0!;20;Sudoeste Baiano
+290680;Cansanção;0;1;0,0%;4;Sisal
+290682;Canudos;0;1;0,0%;10;Sertão do São Francisco
+290685;Capela do Alto Alegre;0;0;#DIV/0!;15;Bacia do Jacuípe
+290687;Capim Grosso;0;3;0,0%;15;Bacia do Jacuípe
+290689;Caraíbas;0;0;#DIV/0!;20;Sudoeste Baiano
+290690;Caravelas;0;1;0,0%;7;Extremo Sul
+290700;Cardeal da Silva;0;0;#DIV/0!;18;Litoral Norte e Agreste Baiano
+290710;Carinhanha;0;1;0,0%;2;Velho Chico
+290720;Casa Nova;0;3;0,0%;10;Sertão do São Francisco
+290730;Castro Alves;0;1;0,0%;21;Recôncavo
+290740;Catolândia;0;1;0,0%;11;Bacia do Rio Grande
+290750;Catu;0;3;0,0%;18;Litoral Norte e Agreste Baiano
+290755;Caturama;0;1;0,0%;12;Bacia do Paramirim
+290760;Central;0;2;0,0%;1;Irecê
+290770;Chorrochó;0;2;0,0%;24;Itaparica
+290780;Cícero Dantas;0;4;0,0%;17;Semiárido Nordeste II
+290790;Cipó;0;1;0,0%;17;Semiárido Nordeste II
+290800;Coaraci;0;0;#DIV/0!;5;Litoral Sul
+290810;Cocos;0;2;0,0%;23;Bacia do Rio Corrente
+290820;Conceição da Feira;0;0;#DIV/0!;19;Portal do Sertão
+290830;Conceição do Almeida;0;1;0,0%;21;Recôncavo
+290840;Conceição do Coité;0;2;0,0%;4;Sisal
+290850;Conceição do Jacuípe;0;4;0,0%;19;Portal do Sertão
+290860;Conde;0;0;#DIV/0!;18;Litoral Norte e Agreste Baiano
+290870;Condeúba;0;1;0,0%;20;Sudoeste Baiano
+290880;Contendas do Sincorá;0;0;#DIV/0!;13;Sertão Produtivo
+290890;Coração de Maria;0;0;#DIV/0!;19;Portal do Sertão
+290900;Cordeiros;0;0;#DIV/0!;20;Sudoeste Baiano
+290910;Coribe;0;2;0,0%;23;Bacia do Rio Corrente
+290920;Coronel João Sá;0;2;0,0%;17;Semiárido Nordeste II
+290930;Correntina;2;3;66,7%;23;Bacia do Rio Corrente
+290940;Cotegipe;0;0;#DIV/0!;11;Bacia do Rio Grande
+290950;Cravolândia;0;1;0,0%;9;Vale do Jiquiriçá
+290960;Crisópolis;0;3;0,0%;18;Litoral Norte e Agreste Baiano
+290970;Cristópolis;0;1;0,0%;11;Bacia do Rio Grande
+290980;Cruz das Almas;0;6;0,0%;21;Recôncavo
+290990;Curaçá;0;1;0,0%;10;Sertão do São Francisco
+291000;Dário Meira;0;0;#DIV/0!;22;Médio Rio de Contas
+291005;Dias d'Ávila;0;1;0,0%;26;Metropolitano de Salvador
+291010;Dom Basílio;0;0;#DIV/0!;13;Sertão Produtivo
+291020;Dom Macedo Costa;0;0;#DIV/0!;21;Recôncavo
+291030;Elísio Medrado;0;0;#DIV/0!;9;Vale do Jiquiriçá
+291040;Encruzilhada;0;2;0,0%;20;Sudoeste Baiano
+291050;Entre Rios;2;3;66,7%;18;Litoral Norte e Agreste Baiano
+290050;Érico Cardoso;0;0;#DIV/0!;12;Bacia do Paramirim
+291060;Esplanada;0;1;0,0%;18;Litoral Norte e Agreste Baiano
+291070;Euclides da Cunha;0;7;0,0%;17;Semiárido Nordeste II
+291072;Eunápolis;0;7;0,0%;27;Costa do Descobrimento
+291075;Fátima;0;2;0,0%;17;Semiárido Nordeste II
+291077;Feira da Mata;0;0;#DIV/0!;2;Velho Chico
+291080;Feira de Santana;0;29;0,0%;19;Portal do Sertão
+291085;Filadélfia;0;0;#DIV/0!;25;Piemonte Norte do Itapicuru
+291090;Firmino Alves;0;1;0,0%;8;Médio Sudoeste da Bahia
+291100;Floresta Azul;0;0;#DIV/0!;5;Litoral Sul
+291110;Formosa do Rio Preto;0;1;0,0%;11;Bacia do Rio Grande
+291120;Gandu;0;1;0,0%;6;Baixo Sul
+291125;Gavião;0;1;0,0%;15;Bacia do Jacuípe
+291130;Gentio do Ouro;0;1;0,0%;1;Irecê
+291140;Glória;0;0;#DIV/0!;24;Itaparica
+291150;Gongogi;0;0;#DIV/0!;22;Médio Rio de Contas
+291160;Governador Mangabeira;0;3;0,0%;21;Recôncavo
+291165;Guajeru;0;0;#DIV/0!;20;Sudoeste Baiano
+291170;Guanambi;1;16;6,3%;13;Sertão Produtivo
+291180;Guaratinga;0;0;#DIV/0!;27;Costa do Descobrimento
+291185;Heliópolis;0;0;#DIV/0!;17;Semiárido Nordeste II
+291190;Iaçu;1;3;33,3%;14;Piemonte do Paraguaçu
+291200;Ibiassucê;0;0;#DIV/0!;13;Sertão Produtivo
+291210;Ibicaraí;0;4;0,0%;5;Litoral Sul
+291220;Ibicoara;0;2;0,0%;3;Chapada Diamantina
+291230;Ibicuí;0;0;#DIV/0!;8;Médio Sudoeste da Bahia
+291240;Ibipeba;0;2;0,0%;1;Irecê
+291250;Ibipitanga;0;1;0,0%;12;Bacia do Paramirim
+291260;Ibiquera;0;1;0,0%;14;Piemonte do Paraguaçu
+291270;Ibirapitanga;0;0;#DIV/0!;6;Baixo Sul
+291280;Ibirapuã;0;0;#DIV/0!;7;Extremo Sul
+291290;Ibirataia;0;2;0,0%;22;Médio Rio de Contas
+291300;Ibitiara;1;4;25,0%;3;Chapada Diamantina
+291310;Ibititá;0;0;#DIV/0!;1;Irecê
+291320;Ibotirama;0;2;0,0%;2;Velho Chico
+291330;Ichu;0;2;0,0%;4;Sisal
+291340;Igaporã;0;1;0,0%;2;Velho Chico
+291345;Igrapiúna;0;1;0,0%;6;Baixo Sul
+291350;Iguaí;0;1;0,0%;8;Médio Sudoeste da Bahia
+291360;Ilhéus;0;16;0,0%;5;Litoral Sul
+291370;Inhambupe;0;3;0,0%;18;Litoral Norte e Agreste Baiano
+291380;Ipecaetá;0;0;#DIV/0!;19;Portal do Sertão
+291390;Ipiaú;0;1;0,0%;22;Médio Rio de Contas
+291400;Ipirá;1;2;50,0%;15;Bacia do Jacuípe
+291410;Ipupiara;0;1;0,0%;1;Irecê
+291420;Irajuba;0;0;#DIV/0!;9;Vale do Jiquiriçá
+291430;Iramaia;0;1;0,0%;3;Chapada Diamantina
+291440;Iraquara;0;4;0,0%;3;Chapada Diamantina
+291450;Irará;0;0;#DIV/0!;19;Portal do Sertão
+291460;Irecê;1;12;8,3%;1;Irecê
+291465;Itabela;0;0;#DIV/0!;27;Costa do Descobrimento
+291470;Itaberaba;0;4;0,0%;14;Piemonte do Paraguaçu
+291480;Itabuna;0;2;0,0%;5;Litoral Sul
+291490;Itacaré;0;2;0,0%;5;Litoral Sul
+291500;Itaeté;1;1;100,0%;3;Chapada Diamantina
+291510;Itagi;0;1;0,0%;22;Médio Rio de Contas
+291520;Itagibá;0;0;#DIV/0!;22;Médio Rio de Contas
+291530;Itagimirim;0;0;#DIV/0!;27;Costa do Descobrimento
+291535;Itaguaçu da Bahia;0;0;#DIV/0!;1;Irecê
+291540;Itaju do Colônia;0;0;#DIV/0!;5;Litoral Sul
+291550;Itajuípe;0;1;0,0%;5;Litoral Sul
+291560;Itamaraju;1;3;33,3%;7;Extremo Sul
+291570;Itamari;0;0;#DIV/0!;22;Médio Rio de Contas
+291580;Itambé;0;1;0,0%;8;Médio Sudoeste da Bahia
+291590;Itanagra;0;0;#DIV/0!;18;Litoral Norte e Agreste Baiano
+291600;Itanhém;0;1;0,0%;7;Extremo Sul
+291610;Itaparica;0;0;#DIV/0!;26;Metropolitano de Salvador
+291620;Itapé;0;0;#DIV/0!;5;Litoral Sul
+291630;Itapebi;0;1;0,0%;27;Costa do Descobrimento
+291640;Itapetinga;0;10;0,0%;8;Médio Sudoeste da Bahia
+291650;Itapicuru;0;1;0,0%;18;Litoral Norte e Agreste Baiano
+291660;Itapitanga;0;1;0,0%;5;Litoral Sul
+291670;Itaquara;0;1;0,0%;9;Vale do Jiquiriçá
+291680;Itarantim;0;1;0,0%;8;Médio Sudoeste da Bahia
+291685;Itatim;0;2;0,0%;14;Piemonte do Paraguaçu
+291690;Itiruçu;0;4;0,0%;9;Vale do Jiquiriçá
+291700;Itiúba;0;1;0,0%;4;Sisal
+291710;Itororó;0;3;0,0%;8;Médio Sudoeste da Bahia
+291720;Ituaçu;0;5;0,0%;13;Sertão Produtivo
+291730;Ituberá;0;1;0,0%;6;Baixo Sul
+291733;Iuiú;0;0;#DIV/0!;13;Sertão Produtivo
+291735;Jaborandi;0;0;#DIV/0!;23;Bacia do Rio Corrente
+291740;Jacaraci;0;0;#DIV/0!;20;Sudoeste Baiano
+291750;Jacobina;2;7;28,6%;16;Piemonte da Diamantina
+291760;Jaguaquara;0;2;0,0%;9;Vale do Jiquiriçá
+291770;Jaguarari;0;3;0,0%;25;Piemonte Norte do Itapicuru
+291780;Jaguaripe;0;0;#DIV/0!;6;Baixo Sul
+291790;Jandaíra;0;1;0,0%;18;Litoral Norte e Agreste Baiano
+291800;Jequié;0;5;0,0%;22;Médio Rio de Contas
+291810;Jeremoabo;0;1;0,0%;17;Semiárido Nordeste II
+291820;Jiquiriçá;0;1;0,0%;9;Vale do Jiquiriçá
+291830;Jitaúna;0;0;#DIV/0!;22;Médio Rio de Contas
+291835;João Dourado;0;2;0,0%;1;Irecê
+291840;Juazeiro;2;16;12,5%;10;Sertão do São Francisco
+291845;Jucuruçu;0;0;#DIV/0!;7;Extremo Sul
+291850;Jussara;0;3;0,0%;1;Irecê
+291855;Jussari;0;0;#DIV/0!;5;Litoral Sul
+291860;Jussiape;0;0;#DIV/0!;3;Chapada Diamantina
+291870;Lafaiete Coutinho;0;0;#DIV/0!;9;Vale do Jiquiriçá
+291875;Lagoa Real;0;1;0,0%;13;Sertão Produtivo
+291880;Laje;0;1;0,0%;9;Vale do Jiquiriçá
+291890;Lajedão;0;0;#DIV/0!;7;Extremo Sul
+291900;Lajedinho;0;1;0,0%;14;Piemonte do Paraguaçu
+291905;Lajedo do Tabocal;1;1;100,0%;9;Vale do Jiquiriçá
+291910;Lamarão;0;0;#DIV/0!;4;Sisal
+291915;Lapão;0;2;0,0%;1;Irecê
+291920;Lauro de Freitas;1;8;12,5%;26;Metropolitano de Salvador
+291930;Lençóis;0;1;0,0%;3;Chapada Diamantina
+291940;Licínio de Almeida;0;2;0,0%;20;Sudoeste Baiano
+291950;Livramento de Nossa Senhora;1;3;33,3%;13;Sertão Produtivo
+291955;Luís Eduardo Magalhães;0;8;0,0%;11;Bacia do Rio Grande
+291960;Macajuba;0;0;#DIV/0!;14;Piemonte do Paraguaçu
+291970;Macarani;0;2;0,0%;8;Médio Sudoeste da Bahia
+291980;Macaúbas;0;4;0,0%;12;Bacia do Paramirim
+291990;Macururé;0;0;#DIV/0!;24;Itaparica
+291992;Madre de Deus;0;0;#DIV/0!;26;Metropolitano de Salvador
+291995;Maetinga;0;2;0,0%;20;Sudoeste Baiano
+292000;Maiquinique;0;0;#DIV/0!;8;Médio Sudoeste da Bahia
+292010;Mairi;0;1;0,0%;15;Bacia do Jacuípe
+292020;Malhada;0;1;0,0%;2;Velho Chico
+292030;Malhada de Pedras;0;2;0,0%;13;Sertão Produtivo
+292040;Manoel Vitorino;0;0;#DIV/0!;22;Médio Rio de Contas
+292045;Mansidão;0;0;#DIV/0!;11;Bacia do Rio Grande
+292050;Maracás;1;3;33,3%;9;Vale do Jiquiriçá
+292060;Maragogipe;0;2;0,0%;21;Recôncavo
+292070;Maraú;1;2;50,0%;5;Litoral Sul
+292080;Marcionílio Souza;0;0;#DIV/0!;3;Chapada Diamantina
+292090;Mascote;0;0;#DIV/0!;5;Litoral Sul
+292100;Mata de São João;0;2;0,0%;26;Metropolitano de Salvador
+292105;Matina;0;1;0,0%;2;Velho Chico
+292110;Medeiros Neto;0;0;#DIV/0!;7;Extremo Sul
+292120;Miguel Calmon;1;2;50,0%;16;Piemonte da Diamantina
+292130;Milagres;0;0;#DIV/0!;9;Vale do Jiquiriçá
+292140;Mirangaba;0;0;#DIV/0!;16;Piemonte da Diamantina
+292145;Mirante;0;1;0,0%;20;Sudoeste Baiano
+292150;Monte Santo;0;2;0,0%;4;Sisal
+292160;Morpará;0;1;0,0%;2;Velho Chico
+292170;Morro do Chapéu;0;6;0,0%;3;Chapada Diamantina
+292180;Mortugaba;0;0;#DIV/0!;20;Sudoeste Baiano
+292190;Mucugê;0;1;0,0%;3;Chapada Diamantina
+292200;Mucuri;0;2;0,0%;7;Extremo Sul
+292205;Mulungu do Morro;0;0;#DIV/0!;1;Irecê
+292210;Mundo Novo;1;5;20,0%;14;Piemonte do Paraguaçu
+292220;Muniz Ferreira;0;0;#DIV/0!;21;Recôncavo
+292225;Muquém de São Francisco;0;0;#DIV/0!;2;Velho Chico
+292230;Muritiba;0;3;0,0%;21;Recôncavo
+292240;Mutuípe;0;0;#DIV/0!;9;Vale do Jiquiriçá
+292250;Nazaré;0;3;0,0%;21;Recôncavo
+292260;Nilo Peçanha;0;1;0,0%;6;Baixo Sul
+292265;Nordestina;0;0;#DIV/0!;4;Sisal
+292270;Nova Canaã;0;1;0,0%;8;Médio Sudoeste da Bahia
+292273;Nova Fátima;0;2;0,0%;15;Bacia do Jacuípe
+292275;Nova Ibiá;0;0;#DIV/0!;22;Médio Rio de Contas
+292280;Nova Itarana;0;0;#DIV/0!;9;Vale do Jiquiriçá
+292285;Nova Redenção;0;0;#DIV/0!;3;Chapada Diamantina
+292290;Nova Soure;0;4;0,0%;17;Semiárido Nordeste II
+292300;Nova Viçosa;0;1;0,0%;7;Extremo Sul
+292303;Novo Horizonte;0;2;0,0%;3;Chapada Diamantina
+292305;Novo Triunfo;0;0;#DIV/0!;17;Semiárido Nordeste II
+292310;Olindina;0;1;0,0%;18;Litoral Norte e Agreste Baiano
+292320;Oliveira dos Brejinhos;1;5;20,0%;2;Velho Chico
+292330;Ouriçangas;0;1;0,0%;18;Litoral Norte e Agreste Baiano
+292335;Ourolândia;2;2;100,0%;16;Piemonte da Diamantina
+292340;Palmas de Monte Alto;0;0;#DIV/0!;13;Sertão Produtivo
+292350;Palmeiras;0;0;#DIV/0!;3;Chapada Diamantina
+292360;Paramirim;0;3;0,0%;12;Bacia do Paramirim
+292370;Paratinga;1;1;100,0%;2;Velho Chico
+292380;Paripiranga;0;2;0,0%;17;Semiárido Nordeste II
+292390;Pau Brasil;0;1;0,0%;5;Litoral Sul
+292400;Paulo Afonso;0;4;0,0%;24;Itaparica
+292405;Pé de Serra;0;0;#DIV/0!;15;Bacia do Jacuípe
+292410;Pedrão;0;0;#DIV/0!;18;Litoral Norte e Agreste Baiano
+292420;Pedro Alexandre;0;1;0,0%;17;Semiárido Nordeste II
+292430;Piatã;0;3;0,0%;3;Chapada Diamantina
+292440;Pilão Arcado;1;2;50,0%;10;Sertão do São Francisco
+292450;Pindaí;0;0;#DIV/0!;13;Sertão Produtivo
+292460;Pindobaçu;0;0;#DIV/0!;25;Piemonte Norte do Itapicuru
+292465;Pintadas;0;0;#DIV/0!;15;Bacia do Jacuípe
+292467;Piraí do Norte;0;0;#DIV/0!;6;Baixo Sul
+292470;Piripá;0;0;#DIV/0!;20;Sudoeste Baiano
+292480;Piritiba;0;0;#DIV/0!;14;Piemonte do Paraguaçu
+292490;Planaltino;0;0;#DIV/0!;9;Vale do Jiquiriçá
+292500;Planalto;0;0;#DIV/0!;20;Sudoeste Baiano
+292510;Poções;0;0;#DIV/0!;20;Sudoeste Baiano
+292520;Pojuca;0;0;#DIV/0!;26;Metropolitano de Salvador
+292525;Ponto Novo;0;0;#DIV/0!;25;Piemonte Norte do Itapicuru
+292530;Porto Seguro;1;16;6,3%;27;Costa do Descobrimento
+292540;Potiraguá;0;1;0,0%;8;Médio Sudoeste da Bahia
+292550;Prado;0;3;0,0%;7;Extremo Sul
+292560;Presidente Dutra;0;2;0,0%;1;Irecê
+292570;Presidente Jânio Quadros;0;0;#DIV/0!;20;Sudoeste Baiano
+292575;Presidente Tancredo Neves;0;2;0,0%;6;Baixo Sul
+292580;Queimadas;0;3;0,0%;4;Sisal
+292590;Quijingue;0;1;0,0%;4;Sisal
+292593;Quixabeira;0;0;#DIV/0!;15;Bacia do Jacuípe
+292595;Rafael Jambeiro;0;0;#DIV/0!;14;Piemonte do Paraguaçu
+292600;Remanso;0;3;0,0%;10;Sertão do São Francisco
+292610;Retirolândia;0;3;0,0%;4;Sisal
+292620;Riachão das Neves;0;7;0,0%;11;Bacia do Rio Grande
+292630;Riachão do Jacuípe;0;0;#DIV/0!;15;Bacia do Jacuípe
+292640;Riacho de Santana;0;3;0,0%;2;Velho Chico
+292650;Ribeira do Amparo;0;1;0,0%;17;Semiárido Nordeste II
+292660;Ribeira do Pombal;0;5;0,0%;17;Semiárido Nordeste II
+292665;Ribeirão do Largo;0;0;#DIV/0!;20;Sudoeste Baiano
+292670;Rio de Contas;0;0;#DIV/0!;3;Chapada Diamantina
+292680;Rio do Antônio;0;0;#DIV/0!;13;Sertão Produtivo
+292690;Rio do Pires;0;2;0,0%;12;Bacia do Paramirim
+292700;Rio Real;0;1;0,0%;18;Litoral Norte e Agreste Baiano
+292710;Rodelas;0;1;0,0%;24;Itaparica
+292720;Ruy Barbosa;0;2;0,0%;14;Piemonte do Paraguaçu
+292730;Salinas da Margarida;0;0;#DIV/0!;21;Recôncavo
+292740;Salvador;7;112;6,3%;26;Metropolitano de Salvador
+292750;Santa Bárbara;0;0;#DIV/0!;19;Portal do Sertão
+292760;Santa Brígida;0;1;0,0%;17;Semiárido Nordeste II
+292770;Santa Cruz Cabrália;0;1;0,0%;27;Costa do Descobrimento
+292780;Santa Cruz da Vitória;0;0;#DIV/0!;8;Médio Sudoeste da Bahia
+292790;Santa Inês;0;0;#DIV/0!;9;Vale do Jiquiriçá
+292805;Santa Luzia;0;0;#DIV/0!;5;Litoral Sul
+292810;Santa Maria da Vitória;0;0;#DIV/0!;23;Bacia do Rio Corrente
+292840;Santa Rita de Cássia;1;2;50,0%;11;Bacia do Rio Grande
+292850;Santa Teresinha;0;1;0,0%;14;Piemonte do Paraguaçu
+292800;Santaluz;0;5;0,0%;4;Sisal
+292820;Santana;1;3;33,3%;23;Bacia do Rio Corrente
+292830;Santanópolis;0;1;0,0%;19;Portal do Sertão
+292860;Santo Amaro;0;0;#DIV/0!;21;Recôncavo
+292870;Santo Antônio de Jesus;0;9;0,0%;21;Recôncavo
+292880;Santo Estêvão;0;1;0,0%;19;Portal do Sertão
+292890;São Desidério;0;0;#DIV/0!;11;Bacia do Rio Grande
+292895;São Domingos;0;0;#DIV/0!;4;Sisal
+292910;São Felipe;1;3;33,3%;21;Recôncavo
+292900;São Félix;0;0;#DIV/0!;21;Recôncavo
+292905;São Félix do Coribe;0;1;0,0%;23;Bacia do Rio Corrente
+292920;São Francisco do Conde;0;0;#DIV/0!;26;Metropolitano de Salvador
+292925;São Gabriel;1;3;33,3%;1;Irecê
+292930;São Gonçalo dos Campos;0;0;#DIV/0!;19;Portal do Sertão
+292935;São José da Vitória;0;0;#DIV/0!;5;Litoral Sul
+292937;São José do Jacuípe;0;0;#DIV/0!;15;Bacia do Jacuípe
+292940;São Miguel das Matas;0;2;0,0%;9;Vale do Jiquiriçá
+292950;São Sebastião do Passé;0;0;#DIV/0!;26;Metropolitano de Salvador
+292960;Sapeaçu;0;4;0,0%;21;Recôncavo
+292970;Sátiro Dias;0;1;0,0%;18;Litoral Norte e Agreste Baiano
+292975;Saubara;0;0;#DIV/0!;21;Recôncavo
+292980;Saúde;1;1;100,0%;16;Piemonte da Diamantina
+292990;Seabra;0;10;0,0%;3;Chapada Diamantina
+293000;Sebastião Laranjeiras;1;2;50,0%;13;Sertão Produtivo
+293010;Senhor do Bonfim;0;9;0,0%;25;Piemonte Norte do Itapicuru
+293020;Sento Sé;0;1;0,0%;10;Sertão do São Francisco
+293015;Serra do Ramalho;0;7;0,0%;2;Velho Chico
+293030;Serra Dourada;0;4;0,0%;23;Bacia do Rio Corrente
+293040;Serra Preta;0;0;#DIV/0!;15;Bacia do Jacuípe
+293050;Serrinha;0;6;0,0%;4;Sisal
+293060;Serrolândia;0;1;0,0%;16;Piemonte da Diamantina
+293070;Simões Filho;0;3;0,0%;26;Metropolitano de Salvador
+293075;Sítio do Mato;0;0;#DIV/0!;2;Velho Chico
+293076;Sítio do Quinto;0;1;0,0%;17;Semiárido Nordeste II
+293077;Sobradinho;0;3;0,0%;10;Sertão do São Francisco
+293080;Souto Soares;0;0;#DIV/0!;3;Chapada Diamantina
+293090;Tabocas do Brejo Velho;0;1;0,0%;23;Bacia do Rio Corrente
+293100;Tanhaçu;0;5;0,0%;13;Sertão Produtivo
+293105;Tanque Novo;0;1;0,0%;13;Sertão Produtivo
+293110;Tanquinho;0;0;#DIV/0!;19;Portal do Sertão
+293120;Taperoá;0;0;#DIV/0!;6;Baixo Sul
+293130;Tapiramutá;0;2;0,0%;14;Piemonte do Paraguaçu
+293135;Teixeira de Freitas;0;6;0,0%;7;Extremo Sul
+293140;Teodoro Sampaio;0;0;#DIV/0!;19;Portal do Sertão
+293150;Teofilândia;0;1;0,0%;4;Sisal
+293160;Teolândia;0;2;0,0%;6;Baixo Sul
+293170;Terra Nova;0;0;#DIV/0!;19;Portal do Sertão
+293180;Tremedal;0;1;0,0%;20;Sudoeste Baiano
+293190;Tucano;0;1;0,0%;4;Sisal
+293200;Uauá;0;7;0,0%;10;Sertão do São Francisco
+293210;Ubaíra;0;1;0,0%;9;Vale do Jiquiriçá
+293220;Ubaitaba;0;0;#DIV/0!;5;Litoral Sul
+293230;Ubatã;0;0;#DIV/0!;22;Médio Rio de Contas
+293240;Uibaí;0;0;#DIV/0!;1;Irecê
+293245;Umburanas;0;2;0,0%;16;Piemonte da Diamantina
+293250;Una;0;0;#DIV/0!;5;Litoral Sul
+293260;Urandi;0;2;0,0%;13;Sertão Produtivo
+293270;Uruçuca;0;0;#DIV/0!;5;Litoral Sul
+293280;Utinga;0;0;#DIV/0!;3;Chapada Diamantina
+293290;Valença;0;9;0,0%;6;Baixo Sul
+293300;Valente;0;0;#DIV/0!;4;Sisal
+293305;Várzea da Roça;0;0;#DIV/0!;15;Bacia do Jacuípe
+293310;Várzea do Poço;0;1;0,0%;15;Bacia do Jacuípe
+293315;Várzea Nova;0;3;0,0%;16;Piemonte da Diamantina
+293317;Varzedo;0;0;#DIV/0!;21;Recôncavo
+293320;Vera Cruz;0;1;0,0%;26;Metropolitano de Salvador
+293325;Vereda;0;0;#DIV/0!;7;Extremo Sul
+293330;Vitória da Conquista;3;20;15,0%;20;Sudoeste Baiano
+293340;Wagner;0;1;0,0%;3;Chapada Diamantina
+293345;Wanderley;0;2;0,0%;11;Bacia do Rio Grande
+293350;Wenceslau Guimarães;0;3;0,0%;6;Baixo Sul
+293360;Xique-Xique;0;1;0,0%;1;Irecê
+290000;Município ignorado - BA;0;0;#DIV/0!;;
+;Total;49;842;5,8%;;
+; Fonte: SESAB/SUVISA/DIVEP/Sistema de Informação sobre Mortalidade - SIM;;;;;
+; Notas:;;;;;
+; ;;;;;
+;   Dados sobre óbitos por causas externas (V01-Y98) de residentes na Bahia, independentemente da UF de ocorrência.;;;;;
+;"   ""Períodos Disponíveis"" refere-se ao ano de ocorrência do óbito.";;;;;
+;   Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram;;;;;
+; utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento;;;;;
+;" ""Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011"".";;;;;
+;   Nas tabulações por Estabelecimento de saúde, foram consideradas as unidades que declararam pelo menos um óbito no SIM.;;;;;
+;   Os dados de 2006 a 2013 podem estar quantitativamente diferentes da divulgação de outras fontes, em virtude de atualizações posteriores que são feitas no Estado.;;;;;
+;   Última atualização realizada em 30/08/2023.;;;;;
+; ;;;;;
