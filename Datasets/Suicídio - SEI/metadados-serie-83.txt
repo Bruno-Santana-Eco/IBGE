@@ -1,0 +1,14 @@
+Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 foram considerados os códigos CIDs 9: E950-E959 (Suicídios e lesões autoinflingidas)
+
+
+Foi utilizada a causa CID-BR-10: X60-X84 (lesões autoprovocadas voluntariamente).
+
+
+Óbitos por residência.
+
+
+Elaboração Diest/Ipea.
+
